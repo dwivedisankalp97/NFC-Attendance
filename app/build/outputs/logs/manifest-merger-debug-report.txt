@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e6466bfb546772469b284ee1e89150e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4e3cf0f1663a17aacf62d42d38751c7b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8b547df2ba5a03ddef4dfaf9bc5ca760\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bd3d57f5a35ddf25bf4df0cbfb53a3c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af0350e3c24690ab283817fc6cd7a132\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7e9f0cd113c587988208ea632159d98b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ef5bfac48475a0c0dec854a9b78692af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1b48b6c28e3b0772d3fa48607016cb36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\541a1aeb54e27217cc350fbbf640b9b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6f6bb1d12b731a7e87d9c1bdda208a39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e71bfb994e19494a705a12bdee06b607\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a448d909de5f54464a04f4fe25054c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\33b5d59deb612d40246ec4ba58e9c86c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e27253727d5cf39aa771e7ae88d5f52d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\efc28996ba3318909e034c712a612277\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\af9c419e114b8a626c55cf592822c4e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d9e771684fd02d80dbc06a8e65df9249\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fea9140e214530d5490303de830e362a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b9e6e6a9ddad12b3b31a3a2ce28d259e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ca4e542231fb319cc6823e6eb98c0a4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\aeec9659bc71b75acc6109c53ed77deb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cdc0dbdff07f769e74a70a31b4374407\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\731264bf81ac0bfb9a74cf59684287df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c6b4347102bfa6ae5a9ba97a2c4c0df5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\24a3c7d6078715cd53dbbf003104c96d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2686d81ac9dbb75729d50ae6086c93b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ca60dc98e1ce01a3283725b4811038a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db878286eecf8f7aff22cade733337bd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.NFC
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:5:5-62
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:5:22-59
+uses-feature#android.hardware.nfc
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:8:9-44
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:11:5-13:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:13:9-35
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:12:9-65
+application
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:15:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4e3cf0f1663a17aacf62d42d38751c7b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4e3cf0f1663a17aacf62d42d38751c7b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d9e771684fd02d80dbc06a8e65df9249\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d9e771684fd02d80dbc06a8e65df9249\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fea9140e214530d5490303de830e362a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fea9140e214530d5490303de830e362a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d9e771684fd02d80dbc06a8e65df9249\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.example.ricky.attendancenfc.MainActivity
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.ricky.attendancenfc.TakeAttendance
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:29:19-49
+activity#com.example.ricky.attendancenfc.NewClass
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:30:9-46
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:30:19-43
+activity#com.example.ricky.attendancenfc.ClassNavigation
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:31:19-50
+activity#com.example.ricky.attendancenfc.newStudents
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:32:19-46
+activity#com.example.ricky.attendancenfc.AddStudentsToNewClass
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:33:9-59
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:33:19-56
+activity#com.example.ricky.attendancenfc.EditClass
+ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml:34:19-44
+uses-sdk
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e6466bfb546772469b284ee1e89150e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e6466bfb546772469b284ee1e89150e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4e3cf0f1663a17aacf62d42d38751c7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4e3cf0f1663a17aacf62d42d38751c7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8b547df2ba5a03ddef4dfaf9bc5ca760\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8b547df2ba5a03ddef4dfaf9bc5ca760\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bd3d57f5a35ddf25bf4df0cbfb53a3c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bd3d57f5a35ddf25bf4df0cbfb53a3c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af0350e3c24690ab283817fc6cd7a132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af0350e3c24690ab283817fc6cd7a132\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7e9f0cd113c587988208ea632159d98b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7e9f0cd113c587988208ea632159d98b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ef5bfac48475a0c0dec854a9b78692af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ef5bfac48475a0c0dec854a9b78692af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1b48b6c28e3b0772d3fa48607016cb36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1b48b6c28e3b0772d3fa48607016cb36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\541a1aeb54e27217cc350fbbf640b9b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\541a1aeb54e27217cc350fbbf640b9b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6f6bb1d12b731a7e87d9c1bdda208a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\6f6bb1d12b731a7e87d9c1bdda208a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e71bfb994e19494a705a12bdee06b607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e71bfb994e19494a705a12bdee06b607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a448d909de5f54464a04f4fe25054c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a448d909de5f54464a04f4fe25054c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\33b5d59deb612d40246ec4ba58e9c86c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\33b5d59deb612d40246ec4ba58e9c86c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e27253727d5cf39aa771e7ae88d5f52d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e27253727d5cf39aa771e7ae88d5f52d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\efc28996ba3318909e034c712a612277\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\efc28996ba3318909e034c712a612277\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\af9c419e114b8a626c55cf592822c4e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\af9c419e114b8a626c55cf592822c4e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d9e771684fd02d80dbc06a8e65df9249\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d9e771684fd02d80dbc06a8e65df9249\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fea9140e214530d5490303de830e362a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fea9140e214530d5490303de830e362a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b9e6e6a9ddad12b3b31a3a2ce28d259e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b9e6e6a9ddad12b3b31a3a2ce28d259e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ca4e542231fb319cc6823e6eb98c0a4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ca4e542231fb319cc6823e6eb98c0a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\aeec9659bc71b75acc6109c53ed77deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\aeec9659bc71b75acc6109c53ed77deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cdc0dbdff07f769e74a70a31b4374407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\cdc0dbdff07f769e74a70a31b4374407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\731264bf81ac0bfb9a74cf59684287df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\731264bf81ac0bfb9a74cf59684287df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c6b4347102bfa6ae5a9ba97a2c4c0df5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c6b4347102bfa6ae5a9ba97a2c4c0df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\24a3c7d6078715cd53dbbf003104c96d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\24a3c7d6078715cd53dbbf003104c96d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2686d81ac9dbb75729d50ae6086c93b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2686d81ac9dbb75729d50ae6086c93b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ca60dc98e1ce01a3283725b4811038a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ca60dc98e1ce01a3283725b4811038a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db878286eecf8f7aff22cade733337bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ricky\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\db878286eecf8f7aff22cade733337bd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ricky\AndroidStudioProjects\AttendanceNFC\app\src\main\AndroidManifest.xml
