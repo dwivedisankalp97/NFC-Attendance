@@ -1,6 +1,6 @@
 # NFC-Attendance
 
-This Android applications scans RFID tags installed in student ID cards to store their credentials and use them to take attendance.
+This Android applications scans RFID tags installed in student ID cards to store their credentials and use it to take attendance.
 It only works on NFC enabled smartphones. 
 
 The app contains the following modules:
